@@ -2,6 +2,13 @@
 
 CHATRON is a new version of AI that can help you with a wide range of tasks through natural and contextually aware conversations. Its goal is to provide seamless and intelligent interactions, revolutionizing the AI landscape for a better and more collaborative future.
 
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
+[![Structure](https://images.repography.com/46979491/Or4cl3-1/CHATRON/structure/XKzObA3JDL6oK2ZkTbnqx3l45lCm-6lH1OVPHWe0GZQ/hDgpjN7i6FnqRjvCn0pMV1JxzNYqkafeSYp2k5zLFfo_table.svg)](https://github.com/Or4cl3-1/CHATRON)
+
+
+
 ## Tech Stack
 
 - Front-end: React.js
